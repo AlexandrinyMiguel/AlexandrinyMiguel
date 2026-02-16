@@ -4,7 +4,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlexandrinyMiguel&show_icons=true&bg_color=0d1117&text_color=ffffff&icon_color=808080&title_color=ffffff&include_all_commits=true&count_private=true" />
-  <img height="100em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlexandrinyMiguel&layout=compact&langs_count=16&bg_color=0d1117&text_color=ffffff&icon_color=808080&title_color=ffffff" />
+  <img height="90em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlexandrinyMiguel&layout=compact&langs_count=16&bg_color=0d1117&text_color=ffffff&icon_color=808080&title_color=ffffff" />
 </div>
 
 ### 🛠️ Tecnologias e Ferramentas em aprendizagem:
